@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\GitHub\\Rotating-cube-using-CUDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|C:\\GitHub\\Rotating-cube-using-CUDA\\screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|solutionrelative:screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitHub\\Rotating-cube-using-CUDA\\screen.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:screen.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "screen.h",
-              "DocumentMoniker": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.h",
-              "RelativeDocumentMoniker": "screen.h",
-              "ToolTip": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.h",
-              "RelativeToolTip": "screen.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-15T07:25:20.106Z",
+              "Title": "screen.cuh",
+              "DocumentMoniker": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.cuh",
+              "RelativeDocumentMoniker": "screen.cuh",
+              "ToolTip": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.cuh",
+              "RelativeToolTip": "screen.cuh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T08:39:20.648Z",
               "EditorCaption": ""
             }
           ]
