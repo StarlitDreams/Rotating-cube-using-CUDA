@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rotating-cube-using-CUDA", "Rotating-cube-using-CUDA.vcxproj", "{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}.Debug|x64.ActiveCfg = Debug|x64
+		{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}.Debug|x64.Build.0 = Debug|x64
+		{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}.Release|x64.ActiveCfg = Release|x64
+		{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E56A4B36-8CCB-4315-93D9-ED0AB2CF6016}
+	EndGlobalSection
+EndGlobal
