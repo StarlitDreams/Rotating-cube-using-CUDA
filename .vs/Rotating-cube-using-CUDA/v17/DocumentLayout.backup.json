@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\Rotating-cube-using-CUDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|C:\\GitHub\\Rotating-cube-using-CUDA\\screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|solutionrelative:screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|C:\\GitHub\\Rotating-cube-using-CUDA\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|solutionrelative:main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|C:\\GitHub\\Rotating-cube-using-CUDA\\SCREEN.CUH||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EF7C0542-FC41-08DD-9B4A-CCB4A75D0DA2}|Rotating-cube-using-CUDA.vcxproj|solutionrelative:SCREEN.CUH||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "screen.cuh",
+              "DocumentMoniker": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.cuh",
+              "RelativeDocumentMoniker": "screen.cuh",
+              "ToolTip": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.cuh",
+              "RelativeToolTip": "screen.cuh",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T08:48:28.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "screen.h",
-              "DocumentMoniker": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.h",
-              "RelativeDocumentMoniker": "screen.h",
-              "ToolTip": "C:\\GitHub\\Rotating-cube-using-CUDA\\screen.h",
-              "RelativeToolTip": "screen.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-15T07:25:20.106Z",
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\GitHub\\Rotating-cube-using-CUDA\\main.cu",
+              "RelativeDocumentMoniker": "main.cu",
+              "ToolTip": "C:\\GitHub\\Rotating-cube-using-CUDA\\main.cu",
+              "RelativeToolTip": "main.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T08:44:39.483Z",
               "EditorCaption": ""
             }
           ]
