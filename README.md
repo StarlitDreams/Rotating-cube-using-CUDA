@@ -1,4 +1,5 @@
-# CUBE — CUDA Rotating 3D Cube (SDL2 + Visual Studio)
+<img width="1200" height="180" alt="Untitled-1" src="https://github.com/user-attachments/assets/a524f79e-6afc-4664-8054-71fcf7ce60ec" />
+
 
 CUDA-accelerated demo that rotates a wireframe 3D cube and rasterizes its edges in parallel, then draws with SDL2. Built with **Visual Studio on Windows**, tested on **NVIDIA RTX 3050 Ti**.
 
@@ -76,3 +77,5 @@ I learned the basic cube modeling/rotation approach here:
 
 ## License
 See `LICENSE.txt`.
+
+<img width="1200" height="180" alt="ending" src="https://github.com/user-attachments/assets/e4787c0d-9f72-43c9-818d-fd209084f4d5" />
