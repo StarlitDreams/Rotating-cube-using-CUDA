@@ -24,7 +24,7 @@ public:
     }
 
     void pixel(float x, float y) {
-        // SDL_FPoint is a POD; no (x,y) ctor. Use brace init:
+        
         points.push_back(SDL_FPoint{ x, y });
     }
 
