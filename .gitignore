@@ -3,7 +3,7 @@
 
 # Keep directories so we can unignore files inside them
 !*/
-
+packages/
 # Track ONLY CUDA source files anywhere
 !*.cu
 !*.cuh
